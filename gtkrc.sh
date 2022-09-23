@@ -113,7 +113,7 @@ make_gtkrc() {
         theme_color='#5b9bf8'
         ;;
       -Purple)
-        theme_color='#FF35EE'
+        theme_color='#A40091'
         ;;
       -Pink)
         theme_color='#F06292'
