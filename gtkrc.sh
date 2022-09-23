@@ -19,13 +19,13 @@ make_gtkrc() {
         theme_color='#3c84f7'
         ;;
       -Purple)
-        theme_color='#AB47BC'
+        theme_color='#8C007C'
         ;;
       -Pink)
         theme_color='#EC407A'
         ;;
       -Red)
-        theme_color='#E53935'
+        theme_color='#D20E1E'
         ;;
       -Orange)
         theme_color='#E05307'
@@ -113,13 +113,13 @@ make_gtkrc() {
         theme_color='#5b9bf8'
         ;;
       -Purple)
-        theme_color='#BA68C8'
+        theme_color='#FF35EE'
         ;;
       -Pink)
         theme_color='#F06292'
         ;;
       -Red)
-        theme_color='#F44336'
+        theme_color='#B11A26'
         ;;
       -Orange)
         theme_color='#FB9A44'
