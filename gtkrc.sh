@@ -28,7 +28,7 @@ make_gtkrc() {
         theme_color='#D20E1E'
         ;;
       -Orange)
-        theme_color='#E05307'
+        theme_color='#EE8F42'
         ;;
       -Yellow)
         theme_color='#FBC02D'
@@ -122,7 +122,7 @@ make_gtkrc() {
         theme_color='#B11A26'
         ;;
       -Orange)
-        theme_color='#FB9A44'
+        theme_color='#EE771E'
         ;;
       -Yellow)
         theme_color='#FFD600'
