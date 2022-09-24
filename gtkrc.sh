@@ -128,7 +128,7 @@ make_gtkrc() {
         theme_color='#FFD600'
         ;;
       -Green)
-        theme_color='#66BB6A'
+        theme_color='#87E7A5'
         ;;
       -Teal)
         theme_color='#4DB6AC'
