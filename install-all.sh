@@ -11,3 +11,12 @@
 
 ./install.sh --tweaks normal --color light --theme purple
 ./install.sh --tweaks normal --color dark --theme purple
+
+./install.sh --tweaks normal --color light --theme pink
+./install.sh --tweaks normal --color dark --theme pink
+
+./install.sh --tweaks normal --color light --theme yellow
+./install.sh --tweaks normal --color dark --theme yellow
+
+./install.sh --tweaks normal --color light --theme green
+./install.sh --tweaks normal --color dark --theme green
