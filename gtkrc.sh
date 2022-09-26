@@ -34,7 +34,7 @@ make_gtkrc() {
         theme_color='#FBC02D'
         ;;
       -Green)
-        theme_color='#4CAF50'
+        theme_color='#87E7A5'
         ;;
       -Teal)
         theme_color='#009688'
