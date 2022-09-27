@@ -1935,8 +1935,7 @@ window.background.csd.unified {
 }
 
 
-//Fix pop shop
-flowboxchild > grid > label{
+label.h1, label.dim-label{
  color: $text;
 }
 
